@@ -27,5 +27,8 @@ Jangan sampai terlewat ya....
 
 ## Clone Data Excel Terlebih dahulu
  Klik Link dan Salin spreedsheet  https://sfl.gl/YGdB
-
 ## Buka Ekstensi App script
+
+
+## kirim kopi biar semangat 
+![WhatsApp Image 2025-11-11 at 19 27 19](https://github.com/user-attachments/assets/15f9dfd8-59bd-4d9a-ab6c-a77c654ca0d2)
