@@ -32,13 +32,13 @@ Jangan sampai terlewat ya....
 4. Klik tab pemicu (triggres)
    buat seperti 3 gambar dibawah
    ```
-   https://sfl.gl/qSIM
+   https://safefileku.com/download/o66JTzSQF4xXpRkD
    ```
    ```
-   https://sfl.gl/J3KG2kT
+   https://safefileku.com/download/YvF986O1YG1HpD0D
    ```
    ```
-   https://sfl.gl/YNpVID
+   https://safefileku.com/download/ppDgZfRZhwPIWlMh
    ```
 ## kirim kopi biar semangat 
 ![WhatsApp Image 2025-11-11 at 19 27 19](https://github.com/user-attachments/assets/15f9dfd8-59bd-4d9a-ab6c-a77c654ca0d2)
