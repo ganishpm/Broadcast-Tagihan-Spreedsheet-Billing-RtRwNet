@@ -23,7 +23,13 @@ Jangan sampai terlewat ya....
 ## Clone Data Excel Terlebih dahulu
  Klik Link dan Salin spreedsheet  https://sfl.gl/YGdB
 ## Buka Ekstensi App script
-
+1. Tambahkan library. copas ini dan pilih "2"
+   ```
+   1JdsZqvvefnxH6Z9sS-aJRVGM4uSkclF5vhKUlklwpNvcckLd5Hk4eZJn
+   ```
+2. Buat Baru File Script dengan nama code dan copas script code.gs
+3. Buat Baru File Script dengan nama codeBroadcast dan copas script codeBroadcast
+4. Klik tab pemicu (triggres)
 
 ## kirim kopi biar semangat 
 ![WhatsApp Image 2025-11-11 at 19 27 19](https://github.com/user-attachments/assets/15f9dfd8-59bd-4d9a-ab6c-a77c654ca0d2)
