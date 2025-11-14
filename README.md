@@ -15,11 +15,6 @@ Mengelola tagihan  pelanggan menggunakan spreedsheet. Saya gunakan untuk tagihan
 2. Melakukan disable otomatis jika melewati tanggal tagihan
 3. Dll ( semoga bisa mengimbangi billing diluar sana )
 
-## Alasan ini dibuat
-- Karena saya mengurus beberapa server 
-- saya saat ini mengurus data sekitar 50an, dari masing-masing server
-- Alasan tidak menggunakan STB dan billing yg gratis.  perlu biaya lagi untuk pengeluaran stb tersebut hehe
-- Dari awal sudah menggunakan spreedsheet ini untuk broadcast tagihan. namun fungsionalnya hanya broadcast
 
 ## Disarankan penggunaan jika customer belum 100 keatas karena akan repot mengurus banyak data
 # Proses instalasi
